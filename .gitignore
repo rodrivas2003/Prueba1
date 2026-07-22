@@ -1,0 +1,5 @@
+# se ignora bin 
+bin
+
+# Ignora todos los html 
+#*.html
